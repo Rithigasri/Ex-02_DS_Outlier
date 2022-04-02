@@ -9,7 +9,7 @@ An outlier is an observation that lies an abnormal distance from other values in
 ## ALGORITHM:
 ### STEP 1:
 Read the given data.
-## STEP 2:
+### STEP 2:
 Apply boxplot to analyze the outliers of given data.
 ### STEP 3:
 Use Z-score method to remove outliers.
